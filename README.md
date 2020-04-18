@@ -2,4 +2,4 @@
 
 Basically a hello world application with flutter, playing around with some containers/layout.
 
-!["screenshot"](docs/screenshot.png =900x400)
+<img src="docs/screenshot.png" alt="screenshot" width="400"/>
